@@ -1,7 +1,7 @@
 // Richard Johnson
 // 10-25-22
-// This API will take the numbers the user puts in the URL and add them together, before printing the sum to the player
-// Peer Review: 
+// This API will take the numbers the user puts in the URL and add them together, before printing the sum to the playe
+// Peer Review: Nicolas Acosta the code works out i like the code simple and plaineasy to use
 
 using Microsoft.AspNetCore.Mvc;
 
